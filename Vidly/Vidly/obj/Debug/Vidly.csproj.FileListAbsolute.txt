@@ -107,3 +107,4 @@ C:\Users\Brila\Desktop\GitHub\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.Popul
 C:\Users\Brila\Desktop\GitHub\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
 C:\Users\Brila\Desktop\GitHub\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
 C:\Users\Brila\Desktop\GitHub\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipTypes.resources
+C:\Users\Brila\Desktop\GitHub\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthDayToCustomer.resources
