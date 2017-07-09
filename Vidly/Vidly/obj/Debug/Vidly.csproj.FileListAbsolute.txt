@@ -108,3 +108,5 @@ C:\Users\Brila\Desktop\GitHub\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.Apply
 C:\Users\Brila\Desktop\GitHub\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
 C:\Users\Brila\Desktop\GitHub\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipTypes.resources
 C:\Users\Brila\Desktop\GitHub\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthDayToCustomer.resources
+C:\Users\Brila\Desktop\GitHub\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenres.resources
+C:\Users\Brila\Desktop\GitHub\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateGenres.resources
