@@ -110,3 +110,11 @@ C:\Users\Brila\Desktop\GitHub\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNa
 C:\Users\Brila\Desktop\GitHub\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthDayToCustomer.resources
 C:\Users\Brila\Desktop\GitHub\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenres.resources
 C:\Users\Brila\Desktop\GitHub\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateGenres.resources
+C:\Users\Brila\Desktop\GitHub\Vidly\Vidly\Vidly\bin\System.Net.Http.Formatting.dll
+C:\Users\Brila\Desktop\GitHub\Vidly\Vidly\Vidly\bin\System.Web.Http.dll
+C:\Users\Brila\Desktop\GitHub\Vidly\Vidly\Vidly\bin\System.Web.Http.WebHost.dll
+C:\Users\Brila\Desktop\GitHub\Vidly\Vidly\Vidly\bin\System.Net.Http.Formatting.xml
+C:\Users\Brila\Desktop\GitHub\Vidly\Vidly\Vidly\bin\System.Web.Http.xml
+C:\Users\Brila\Desktop\GitHub\Vidly\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
+C:\Users\Brila\Desktop\GitHub\Vidly\Vidly\Vidly\bin\AutoMapper.dll
+C:\Users\Brila\Desktop\GitHub\Vidly\Vidly\Vidly\bin\AutoMapper.xml
