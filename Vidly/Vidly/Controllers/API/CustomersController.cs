@@ -23,7 +23,11 @@ namespace Vidly.Controllers.API
         // GET /api/customers
         public IHttpActionResult GetCustomers()
         {
-            return Ok(_context.Customers.ProjectTo<CustomerDto>().ToList());
+            var customerDtos = _context.Customers
+                .ProjectTo<CustomerDto>()
+                .ToList();
+
+            return Ok(customerDtos);
         }
 
         // GET /api/customers/1

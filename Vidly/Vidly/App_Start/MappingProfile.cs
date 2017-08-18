@@ -19,6 +19,7 @@ namespace Vidly.App_Start
             // Domain to Dto
             CreateMap<Movie, MovieDto>();
             CreateMap<Customer, CustomerDto>();
+            CreateMap<MembershipType, MembershipTypeDto>();
         }
     }
 }
